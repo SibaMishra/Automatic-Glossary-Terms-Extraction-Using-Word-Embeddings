@@ -14,6 +14,7 @@ The file "Glossary Similarity Scores.pdf" reports the calculated cosine similari
 
 
 If you find the above mentioned details useful for your research, please cite the following paper.
+
 Siba Mishra, Arpit Sharma. "Automatic Word Embeddings-Based Glossary Term Extraction from Large-Sized Software Requirements". In Proceedings of the International Working Conference on Requirements Engineering: Foundation for Software Quality (REFSQ), 2020, Pisa, Italy. pp. 203-218. DOI: https://doi.org/10.1007/978-3-030-44429-7_15
 
 
